@@ -1,5 +1,9 @@
 body {
     background-color: hsla(255, 10%, 75%, 1);
+    background-image: url(../images/sukuna_background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     color: hsla(67, 100%, 99%, 1);
     font-family: 'Inter';
 }
