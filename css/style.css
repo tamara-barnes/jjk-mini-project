@@ -1,3 +1,5 @@
 body {
-    background-color: hsla(38, 60%, 95%, 1);
+    background-color: hsla(255, 10%, 75%, 1);
+    color: hsla(67, 100%, 99%, 1);
+    font-family: 'Inter';
 }
