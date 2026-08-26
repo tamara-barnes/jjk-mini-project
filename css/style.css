@@ -1,7 +1,7 @@
 * {
     cursor: url(../images/sukuna_finger.png), pointer;
 }
-body {
+.homepage {
     background-color: hsla(255, 10%, 75%, 1);
     background-image: url(../images/sukuna_background.png);
     background-repeat: no-repeat;
@@ -20,3 +20,6 @@ body {
     font-family: 'Cinzel';
     font-size: 20px;
 }
+
+/* Additional pages */
+
