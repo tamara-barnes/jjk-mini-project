@@ -25,4 +25,5 @@
 .pages {
     background-color:hsl(203.12, 76.22%, 71.96%);
     color: hsl(20, 10%, 94%);
+    font-family: "Inter", sans-serif;
 }
