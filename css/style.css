@@ -11,6 +11,11 @@
     font-family: 'Inter';
 }
 
+.jjk_jap_title:hover {
+    transform: scale(1,1.2);
+    transition-delay: 0.25s;
+}
+
 .jjk_jap_title {
     font-family: 'Yuji Syuku';
     font-size: 80px;
