@@ -24,11 +24,13 @@
 .jjk_jap_title {
     font-family: 'Yuji Syuku';
     font-size: 80px;
+    margin-bottom: 10px;
 }
 
 .jjk_eng_title {
     font-family: 'Cinzel';
     font-size: 20px;
+    margin-left: 80px;
 }
 
 /* Additional pages */
