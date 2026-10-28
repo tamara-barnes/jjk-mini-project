@@ -34,7 +34,12 @@
 .nav_bar {
     list-style-type: none;
     color: hsl(67, 100%, 99%);
+    font-weight: bold;
     padding-left: 20px;
+}
+
+.nav_bar li a {
+    text-decoration: none;
 }
 
 /* Additional pages */
